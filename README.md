@@ -7,7 +7,7 @@ Aquí se presentarán las reglas y la estructura de archivos, donde se explicara
 Para la instalación del templete:
 
 ```bash
-link de git
+git clone https://github.com/DiegoPonzio/templete-front.git
 ```
 
 Para la instalación de paquetes:
