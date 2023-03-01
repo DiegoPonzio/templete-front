@@ -42,4 +42,10 @@ Esta contendrá la lógica y las partes más importantes de nuestro proyecto com
 - `App.jsx`, esta será nuestra main page.
 - `main.jsx`, este constara con nuestro manejador de rutas "RouterProvider" donde se especificaran las diversas rutas, así como las reglas generales o los contextos que englobaran a todo nuestro programa
 
+### Rutas 
+Para movernos entre rutas de la pagina ocuparemos <Link>
+```bash
+import { Link } from 'react-router-dom';
 
+<Link to='/' >main</Link>
+```
